@@ -179,7 +179,7 @@
 
 .main2{
   height: 685px;
-  background-image: url(Model_y.jpg);
+  background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-New-Legacy-Model-Y-Desktop.png");
   background-size: cover;
   
 }
@@ -266,7 +266,7 @@
 
 .main3{
   height: 685px;
-  background-image: url(New_model_y.jpg);
+  background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-S-Desktop-US.png");
   background-size: cover;
  
 }
@@ -275,21 +275,21 @@
 /* main4 */
 .main4{
   height: 685px;
-  background-image: url(Modex_x.jpg);
+  background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-X-Desktop-US.png");
   background-size: cover;
 }
 
 /* main5 */
 .main5{
   height: 685px;
-  background-image: url(Model_s.jpg);
+  background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-S-Desktop-US.png");
   background-size: cover;
 }
 
 /* main6 */
 .main6{
   height: 685px;
-  background-image: url(cybertruck.jpg);
+  background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Cybertruck-Desktop-v3.png");
   background-size: cover;
 }
 #cyber1{
@@ -362,7 +362,7 @@
 /* main7 */
 .main7{
   height: 685px;
-  background-image: url(Solar_panel.jpg);
+  background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-SolarPanels-01-Desktop");
   background-size: cover;
 }
 #solarbtn{
@@ -372,7 +372,7 @@
 /* main8 */
 .main8{
   height: 685px;
-  background-image: url(solarroof.jpg);
+  background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-SolarRoof-Desktop-US.png");
   background-size: cover;
 }
 #roofbtn{
@@ -382,7 +382,7 @@
 /* main9 */
 .main9{
   height: 685px;
-  background-image: url(Powerwall.jpg);
+  background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Powerwall-Desktop-US.png");
   background-size: cover;
 }
 #pwbtn{
@@ -392,7 +392,7 @@
 /* main10 */
 .main10{
   height: 685px;
-  background-image: url(Accessories.jpg);
+  background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Accessories-Desktop-US.png");
   background-size: cover;
 }
 #shopbtn{
